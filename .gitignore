@@ -1,5 +1,6 @@
 # FOLDERS ######################################
 node_modules/
+offline/
 
 # FILES ########################################
 package-lock.json

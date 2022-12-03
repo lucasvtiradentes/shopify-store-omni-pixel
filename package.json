@@ -1,20 +1,11 @@
 {
   "name": "shopify-store-omni-pixel",
   "version": "0.0.0-development",
-  "description": "This is a tool for saving user behavior information into cookies and send events to some ads and analytics platforms, like GA, Facebook and Tiktok.",
+  "description": "🔎 Save webstores user behavior information into cookies and send events to ads and analytics platforms, like GA, Facebook and Tiktok.",
   "license": "MIT",
-  "homepage": "https://github.com/lucasvtiradentes/shopify-store-omni-pixel",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/lucasvtiradentes/shopify-store-omni-pixel.git"
-  },
   "author": {
     "name": "Lucas Vieira",
-    "email": "lucasvtiradentes@gmail.com",
-    "url": "https://www.linkedin.com/in/lucasvtiradentes"
-  },
-  "bugs": {
-    "url": "https://github.com/lucasvtiradentes/shopify-store-omni-pixel/issues"
+    "email": "lucasvtiradentes@gmail.com"
   },
   "keywords": [
     "shopify",
@@ -24,10 +15,13 @@
     "online-store",
     "yampi"
   ],
-  "husky": {
-    "hooks": {
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
-    }
+  "homepage": "https://github.com/lucasvtiradentes/shopify-store-omni-pixel",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucasvtiradentes/shopify-store-omni-pixel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lucasvtiradentes/shopify-store-omni-pixel/issues"
   },
   "type": "module",
   "main": "dist/lvt_omni_pixel.min.js",
