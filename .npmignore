@@ -1,0 +1,24 @@
+# FOLDERS #######################
+.github/
+.husky/
+docs/
+node_modules/
+scripts/
+src/
+
+# FILES #########################
+package-lock.json
+yarn-lock.json
+pnpm-lock.yaml
+.npmrc
+.commitlintrc
+.czrc
+.editorconfig
+.eslintignore
+.eslintrc
+.gitignore
+.npmignore
+.prettierignore
+.prettierrc
+.releaserc
+tsconfig.json
