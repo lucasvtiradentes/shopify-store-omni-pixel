@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/lucasvtiradentes/shopify-store-omni-pixel/compare/v1.0.0...v1.1.0) (2022-12-03)
+
+
+### Features
+
+* **husky:** add husky to the project ([7196a78](https://github.com/lucasvtiradentes/shopify-store-omni-pixel/commit/7196a7876831c601a3560364e01acd27fa1f1576))
+
 # 1.0.0 (2022-12-03)
 
 
